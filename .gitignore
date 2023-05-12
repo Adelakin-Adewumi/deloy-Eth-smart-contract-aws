@@ -12,6 +12,7 @@ client/*/src/contracts
 
 # Testing
 coverage
+TEST-results.xml
 
 # Env
 .env
