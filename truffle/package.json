@@ -7,5 +7,8 @@
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.1.7"
+  },
+  "devDependencies": {
+    "jest-junit": "^16.0.0"
   }
 }
