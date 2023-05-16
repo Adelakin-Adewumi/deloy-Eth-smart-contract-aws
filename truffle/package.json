@@ -6,7 +6,8 @@
     "test": "truffle test"
   },
   "dependencies": {
-    "@truffle/hdwallet-provider": "^2.1.7"
+    "@truffle/hdwallet-provider": "^2.1.7",
+    "ganache": "^7.8.0"
   },
   "devDependencies": {
     "jest-junit": "^16.0.0"
